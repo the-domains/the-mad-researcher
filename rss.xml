@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[The Mad Researcher]]></title>
         <description><![CDATA[The Mad Researcher]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-mad-researcher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 03:31:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 03:32:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-mad-researcher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined0144f1f3-f804-4db7-b99a-96b3a547a3b0/index.html</link>
+            <link>https://thegrid.ai/the-mad-researcher/eaef791d-c48b-4d30-8ac7-ddf0fff5797b/index.html</link>
+            <guid isPermaLink="false">eaef791d-c48b-4d30-8ac7-ddf0fff5797b</guid>
+            <pubDate>Thu, 18 Feb 2016 03:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Really liked this article: http://www.nytimes.com/2016/02/14/opinion/sunday/death-the-prosperity-gospel-and-me.html?_r=1</p>]]></description>
+            <link>https://thegrid.ai/the-mad-researcher/0144f1f3-f804-4db7-b99a-96b3a547a3b0/index.html</link>
             <guid isPermaLink="false">0144f1f3-f804-4db7-b99a-96b3a547a3b0</guid>
             <pubDate>Thu, 18 Feb 2016 03:30:36 GMT</pubDate>
         </item>
