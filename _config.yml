@@ -1,7 +1,7 @@
 name: The Mad Researcher
 favicon: null
-layout_spectrum: 0.29924166668206453
-typography_spectrum: 0.23933389806188643
+layout_spectrum: 0.23413
+typography_spectrum: 0.43132
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.15674111945554614
+  brandStrength: 0.125
   lightness: 0.14535464299842715
   saturation: 0.840911524835974
   rhythmicContrast: 0.7442142518702894
